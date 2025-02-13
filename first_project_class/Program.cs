@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 class AdventOfCode {
 
     static void Main() {
-        List<int> leftNumbers = {}
+        List<int> leftNumbers = { 1, 2 };
     }
 }
